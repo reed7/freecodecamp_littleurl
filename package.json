@@ -1,0 +1,22 @@
+{
+  "name": "littleurl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reed7/freecodecamp_littleurl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reed7/freecodecamp_littleurl/issues"
+  },
+  "homepage": "https://github.com/reed7/freecodecamp_littleurl#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
